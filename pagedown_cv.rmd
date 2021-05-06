@@ -16,7 +16,7 @@ Aside
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
-
+- <i class="fa fa-user-circle" aria-hidden="true"></i>[Personal Website](https://samanwoy1989.github.io/)
 - <i class="fa fa-envelope"></i> m.samanwoy@gmail.com
 - <i class="fa fa-envelope-square"></i> sm3@nibmg.ac.in
 - <i class="fa fa-github"></i> Github ID: [samanwoy1989](https://github.com/samanwoy1989)
@@ -34,7 +34,7 @@ Skills {#skills}
 - Skilled in R, LaTeX, Markdown, git
 - Python and Bash literate
 - Experienced in scientific computing with Linux OS 
-
+- Experienced in website/API development
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ Main
 
 Samanwoy Mukhopadhyay {#title}
 --------------------------------------------------------------------------------
-
+<!-- **Currently searching for a post-doctoral researcher position in genomics** -->
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -77,8 +77,10 @@ Research Experience {data-icon=laptop}
 - Experienced in transcriptomic data analysis, data mining, handling big data generated from the lab and also from the public domain.
 - Experienced in performing meta-analysis from public data to draw inference from already available data in the field (GEO, TCGA).
 - Experienced in creating data/ software packages (in R) for reproducibility of the work done.
+- skilled in IDE such as Rstudio and Jupyter
 - All the data and codes are available in public domain for each manuscript as a R vignette.
 - Proficient in sweave, knitr, Markdown, Latex for scientific document writing.
+- Skilled in Website/ API development through pagedown, blogdown, Shiny, distill, Markdown.
 - Experienced in genomic data generation in a laboratory in Gene expression microarray. 
 - Isolation of DNA, RNA from clinical samples, Bioanalyzer (capillary electrophoresis) for quality assessment of the nucleic acids, PCR, gel Electrophoresis, cDNA library preparation for gene expression microarray chips, gene expression microarray. 
 - Literate in basic microbiological experiments. 
